@@ -1,16 +1,22 @@
 # Agrupamento de Municípios utilizando dados abertos do Imposto de Renda da Pessoa Física
 Trabalho de Conclusão de Curso da Especialização em Ciência de Dados e Big Data
+
 PUC-Minas
 
 # Problema Proposto
 WHAT?  Buscar padrões nos dados do Imposto de Renda da Pessoa Física (IRPF)
+
 WHY? Novas estratégias para a fiscalização da Receita Federal do Brasil (RFB)
+
 WHO? Dados abertos do IRPF (RFB), de população estimada e de PIB (IBGE)
+
 WHERE? Municípios brasileiros
+
 WHEN? Ano 2018
 
 # Estratégia de Machine Learning
 Agrupamento (Clustering) 
+
 K-Means
 
 # Python
