@@ -1,5 +1,6 @@
 # Agrupamento de Municípios utilizando dados abertos do Imposto de Renda da Pessoa Física
 Trabalho de Conclusão de Curso da Especialização em Ciência de Dados e Big Data
+PUC-Minas
 
 # Problema Proposto
 WHAT?  Buscar padrões nos dados do Imposto de Renda da Pessoa Física (IRPF)
